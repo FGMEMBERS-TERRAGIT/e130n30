@@ -1,0 +1,3 @@
+OBJECT_SHARED Models/Airport/ils.xml 139.347703 35.760356 137.36 189.5
+OBJECT_SHARED Models/Airport/tacan.xml 139.415 35.84 85.9 180
+OBJECT_SHARED Models/Airport/localizer.xml 139.344614 35.766936 146.26 80.34

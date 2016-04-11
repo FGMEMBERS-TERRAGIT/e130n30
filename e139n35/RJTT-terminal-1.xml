@@ -1,0 +1,457 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+
+ <path>RJTT-terminal-1.ac</path>
+
+	<animation>
+		<type>material</type>
+		<object-name>sign-japanese</object-name> 
+		<object-name>sign-english</object-name> 
+		<object-name>sign-terminal-front</object-name> 
+		<object-name>sign-terminal-side</object-name> 
+		<object-name>parking-sign-1w</object-name> 
+		<object-name>parking-sign-1e</object-name> 
+		<object-name>parking-sign-2w</object-name> 
+		<object-name>parking-sign-2e</object-name> 
+		<condition>
+			<greater-than>
+				<property>/sim/time/sun-angle-rad</property>
+				<value>1.57</value>
+			</greater-than>
+		</condition>
+		<emission>
+			<red>1</red>
+			<green>1</green>
+			<blue>1</blue>
+		</emission>
+<!--		<texture>RJTT-terminal-1-signs.rgb</texture> -->
+	</animation>
+	
+
+	<animation>
+		<type>material</type>
+		<object-name>sign-japanese</object-name> 
+		<object-name>sign-english</object-name> 
+		<object-name>sign-terminal-front</object-name> 
+		<object-name>sign-terminal-side</object-name> 
+		<object-name>parking-sign-1w</object-name> 
+		<object-name>parking-sign-1e</object-name> 
+		<object-name>parking-sign-2w</object-name> 
+		<object-name>parking-sign-2e</object-name> 
+		<condition>
+			<less-than-equals>
+				<property>/sim/time/sun-angle-rad</property>
+				<value>1.57</value>
+			</less-than-equals>
+		</condition>
+		<emission>
+			<red>0</red>
+			<green>0</green>
+			<blue>0</blue>
+		</emission>
+<!--		<texture>RJTT-terminal-1-signs.rgb</texture> --> 
+	</animation>
+
+	
+	<model> <!-- Gate 1 light-->
+		<path>Models/Airport/light-pole-20m-circular.xml</path>
+		<offsets>
+			<x-m>429</x-m>
+			<y-m>144.5</y-m>
+			<heading-deg>90.000 </heading-deg>
+		</offsets>
+	</model>
+	<model> <!-- Gate 2 light-->
+		<path>Models/Airport/light-pole-20m-circular.xml</path>
+		<offsets>
+			<x-m>429</x-m>
+			<y-m>96.7</y-m>
+			<heading-deg>90.000 </heading-deg>
+		</offsets>
+	</model>
+	<model> <!-- Gate 3 light-->
+		<path>Models/Airport/light-pole-20m-circular.xml</path>
+		<offsets>
+			<x-m>437.5</x-m>
+			<y-m>33.3</y-m>
+			<heading-deg>90.000 </heading-deg>44
+		</offsets>
+	</model>
+	<model> <!-- Gate 4 light-->
+		<path>Models/Airport/light-pole-20m-circular.xml</path>
+		<offsets>
+			<x-m>437.5</x-m>
+			<y-m>-39.7</y-m>
+			<heading-deg>90.000 </heading-deg>
+		</offsets>
+	</model>
+	<model> <!-- Gate 6-7 light-->
+		<path>Models/Airport/light-pole-20m-circular.xml</path>
+		<offsets>
+			<x-m>392.1</x-m>
+			<y-m>-108.9</y-m>
+			<heading-deg>0.000 </heading-deg>
+		</offsets>
+	</model>
+	
+	<model> <!-- Gate 8 light-->
+		<path>Models/Airport/light-pole-20m-circular.xml</path>
+		<offsets>
+			<x-m>335.1</x-m>
+			<y-m>-79.8</y-m>
+			<heading-deg>0.000 </heading-deg>
+		</offsets>
+	</model>
+	
+	<model> <!-- Gate 9 light-->
+		<path>Models/Airport/light-pole-20m-circular.xml</path>
+		<offsets>
+			<x-m>288.6</x-m>
+			<y-m>-39.7</y-m>
+			<heading-deg>0.000 </heading-deg>
+		</offsets>
+	</model>
+	<model> <!-- Gate 10 light-->
+		<path>Models/Airport/light-pole-20m-circular.xml</path>
+		<offsets>
+			<x-m>174.7</x-m>
+			<y-m>-43.9</y-m>
+			<heading-deg>0.000 </heading-deg>
+		</offsets>
+	</model>
+	
+	<model> <!-- Gate 11 light-->
+		<path>Models/Airport/light-pole-20m-circular.xml</path>
+		<offsets>
+			<x-m>76</x-m>
+			<y-m>-52</y-m>
+			<heading-deg>0.000 </heading-deg>
+		</offsets>
+	</model>
+	
+	<model> <!-- Gate 12-13 light-->
+		<path>Models/Airport/light-pole-20m-circular.xml</path>
+		<offsets>
+			<x-m>-9.1</x-m>
+			<y-m>-110</y-m>
+			<heading-deg>0.000 </heading-deg>
+		</offsets>
+	</model>
+
+	<model> <!-- Gate 14 light-->
+		<path>Models/Airport/light-pole-20m-circular.xml</path>
+		<offsets>
+			<x-m>-84</x-m>
+			<y-m>-62</y-m>
+			<heading-deg>0.000 </heading-deg>
+		</offsets>
+	</model>
+	
+	<model> <!-- Gate 15-16 light-->
+		<path>Models/Airport/light-pole-20m-circular.xml</path>
+		<offsets>
+			<x-m>-212</x-m>
+			<y-m>-42</y-m>
+			<heading-deg>0.000 </heading-deg>
+		</offsets>
+	</model>
+	
+	<model> <!-- Gate 17 light-->
+		<path>Models/Airport/light-pole-20m-circular.xml</path>
+		<offsets>
+			<x-m>-305</x-m>
+			<y-m>-42</y-m>
+			<heading-deg>0.000 </heading-deg>
+		</offsets>
+	</model>
+	
+	<model> <!-- Gate 18 light-->
+		<path>Models/Airport/light-pole-20m-circular.xml</path>
+		<offsets>
+			<x-m>-357</x-m>
+			<y-m>-75</y-m>
+			<heading-deg>0.000 </heading-deg>
+		</offsets>
+	</model>
+	
+	<model> <!-- Gate 19 light-->
+		<path>Models/Airport/light-pole-20m-circular.xml</path>
+		<offsets>
+			<x-m>-391</x-m>
+			<y-m>-100</y-m>
+			<heading-deg>0.000 </heading-deg>
+		</offsets>
+	</model>
+	<model> <!-- Gate 20 light-->
+		<path>Models/Airport/light-pole-20m-circular.xml</path>
+		<offsets>
+			<x-m>-406</x-m>
+			<y-m>-100</y-m>
+			<heading-deg>0.000 </heading-deg>
+		</offsets>
+	</model>
+	<model> <!-- Gate 21 light-->
+		<path>Models/Airport/light-pole-20m-circular.xml</path>
+		<offsets>
+			<x-m>-438</x-m>
+			<y-m>-73</y-m>
+			<heading-deg>270.000 </heading-deg>
+		</offsets>
+	</model>
+	
+	
+	<model> <!-- Gate 22 light-->
+		<path>Models/Airport/light-pole-20m-circular.xml</path>
+		<offsets>
+			<x-m>-438</x-m>
+			<y-m>-18</y-m>
+			<heading-deg>270.000 </heading-deg>
+		</offsets>
+	</model>
+
+	
+	<model> <!-- Gate 23 light-->
+		<path>Models/Airport/light-pole-20m-circular.xml</path>
+		<offsets>
+			<x-m>-438</x-m>
+			<y-m>40</y-m>
+			<heading-deg>270.000 </heading-deg>
+		</offsets>
+	</model>
+	
+	<model> <!-- Gate 24 light-->
+		<path>Models/Airport/light-pole-20m-circular.xml</path>
+		<offsets>
+			<x-m>-438</x-m>
+			<y-m>86</y-m>
+			<heading-deg>270.000 </heading-deg>
+		</offsets>
+	</model>
+	
+	
+	<model> <!-- Gate 1 -->
+		<path>Models/Airport/Jetway/jetway-737-ba.xml</path>
+		<offsets>
+			<x-m>429.08</x-m>
+			<y-m>89.71</y-m>
+			<heading-deg>30.0</heading-deg>
+		</offsets>
+	</model>
+	
+	<model> <!-- Gate 2 -->
+		<path>Models/Airport/Jetway/jetway-737-ba.xml</path>
+		<offsets>
+			<x-m>434.32</x-m>
+			<y-m>39.27</y-m>
+			<heading-deg>30.0</heading-deg>
+		</offsets>
+	</model>
+
+	<model> <!-- Gate 3 -->
+		<path>Models/Airport/Jetway/jetway-737-ba.xml</path>
+		<offsets>
+			<x-m>433.26</x-m>
+			<y-m>-33.22</y-m>
+			<heading-deg>45.0</heading-deg>
+		</offsets>
+	</model>
+	
+	<model> <!-- Gate 4 -->
+		<path>Models/Airport/Jetway/jetway-737-ba.xml</path>
+		<offsets>
+			<x-m>432.61</x-m>
+			<y-m>-100.58</y-m>
+			<heading-deg>315.0</heading-deg>
+		</offsets>
+	</model>
+	
+	<model> <!-- Gate 5 -->
+		<path>Models/Airport/Jetway/jetway-737-ba.xml</path>
+		<offsets>
+			<x-m>419.01</x-m>
+			<y-m>-110.19</y-m>
+			<heading-deg>-45.0</heading-deg>
+		</offsets>
+	</model>
+	
+	<model> <!-- Gate 6 MD-11 -->
+		<path>Models/Airport/Jetway/jetway-737-ba.xml</path>
+		<offsets>
+			<x-m>383.14</x-m>
+			<y-m>-107.57</y-m>
+			<heading-deg>-45.0</heading-deg>
+		</offsets>
+	</model>
+	
+	<model> <!-- Gate 7 747-->
+		<path>Models/Airport/Jetway/jetway-747-ba.xml</path>
+		<offsets>
+			<x-m>346.52</x-m>
+			<y-m>-84.78</y-m>
+			<heading-deg>-75.0</heading-deg>
+		</offsets>
+	</model>
+	<model> <!-- Gate 8 -->
+		<path>Models/Airport/Jetway/jetway-737-ba.xml</path>
+		<offsets>
+			<x-m>302.06</x-m>
+			<y-m>-39.57</y-m>
+			<heading-deg>300.000 </heading-deg>
+		</offsets>
+	</model>
+	<model> <!-- Gate 9 -->
+		<path>Models/Airport/Jetway/jetway-737-ba.xml</path>
+		<offsets>
+			<x-m>207.89</x-m>
+			<y-m>-40.62</y-m>
+			<heading-deg>300.000 </heading-deg>
+		</offsets>
+	</model>
+	<model> <!-- Gate 10 -->
+		<path>Models/Airport/Jetway/jetway-737-ba.xml</path>
+		<offsets>
+			<x-m>124.1</x-m>
+			<y-m>-40.62</y-m>
+			<heading-deg>300.000 </heading-deg>
+		</offsets>
+	</model>
+
+	
+	<model> <!-- Gate 11 747 -->
+		<path>Models/Airport/Jetway/jetway-747-ba.xml</path>
+		<offsets>
+			<x-m>34.26</x-m>
+			<y-m>-92.68</y-m>
+			<heading-deg>300.000 </heading-deg>
+		</offsets>
+	</model>
+
+	<model> <!-- Gate 12 -->
+		<path>Models/Airport/Jetway/jetway-737-ba.xml</path>
+		<offsets>
+			<x-m>0.00</x-m>
+			<y-m>-109.198</y-m>
+			<heading-deg>300.000 </heading-deg>
+		</offsets>
+	</model>
+	
+	<model> <!-- Gate 13 777-->
+		<path>Models/Airport/Jetway/jetway-737-ba.xml</path>
+		<offsets>
+			<x-m>-42.42</x-m>
+			<y-m>-91.86</y-m>
+			<heading-deg>190.0 </heading-deg>
+		</offsets>
+	</model>
+	<model> <!-- Gate 14 777 -->
+		<path>Models/Airport/Jetway/jetway-737-ba.xml</path>
+		<offsets>
+			<x-m>-68.06</x-m>
+			<y-m>-68.06</y-m>
+			<heading-deg>240.0 </heading-deg>
+		</offsets>
+	</model>
+	<model> <!-- Gate 15 -->
+		<path>Models/Airport/Jetway/jetway-737-ba.xml</path>
+			<offsets>
+				<x-m>-176.655</x-m>
+				<y-m>-41.464</y-m>
+				<heading-deg>300.000 </heading-deg>
+			</offsets>
+	</model>
+
+	<model> <!-- Gate 16-->
+		<path>Models/Airport/Jetway/jetway-737-ba.xml</path>
+		<offsets>
+			<x-m>-254.0</x-m>
+			<y-m>-41.464</y-m>
+			<heading-deg>300.000 </heading-deg>
+		</offsets>
+	</model>
+
+	<model> <!-- Gate 17-->
+		<path>Models/Airport/Jetway/jetway-737-ba.xml</path>
+		<offsets>
+			<x-m>-363.52</x-m>
+			<y-m>-80.11</y-m>
+			<heading-deg>300.000 </heading-deg>
+		</offsets>
+	</model>
+
+	<model> <!-- Gate 18-->
+		<path>Models/Airport/Jetway/jetway-737-ba.xml</path>
+		<offsets>
+			<x-m>-383.2</x-m>
+			<y-m>-95.63</y-m>
+			<heading-deg>300.000 </heading-deg>
+		</offsets>
+	</model>
+	<model> <!-- Gate 19-->
+		<path>Models/Airport/Jetway/jetway-737-ba.xml</path>
+		<offsets>
+			<x-m>-414.25</x-m>
+			<y-m>-96.76</y-m>
+			<heading-deg>270.0 </heading-deg>
+		</offsets>
+	</model>
+	<model> <!-- Gate 20-->
+		<path>Models/Airport/Jetway/jetway-737-ba.xml</path>
+		<offsets>
+			<x-m>-423.71</x-m>
+			<y-m>-96.76</y-m>
+			<heading-deg>270.000 </heading-deg>
+		</offsets>
+	</model>
+	<model> <!-- Gate 21-->
+		<path>Models/Airport/Jetway/jetway-737-ba.xml</path>
+		<offsets>
+			<x-m>-428.25</x-m>
+			<y-m>-81.24</y-m>
+			<heading-deg>300.000 </heading-deg>
+		</offsets>
+	</model>
+	<model> <!-- Gate 22-->
+		<path>Models/Airport/Jetway/jetway-737-ba.xml</path>
+		<offsets>
+			<x-m>-431.10</x-m>
+			<y-m>-29.88</y-m>
+			<heading-deg>180.0 </heading-deg>
+		</offsets>
+	</model>
+	<model>
+		<path>Models/Airport/Jetway/jetway-737-ba.xml</path>
+		<offsets>
+			<x-m>-431.10</x-m>
+			<y-m>-29.88</y-m>
+			<heading-deg>240.0 </heading-deg>
+		</offsets>
+	</model>
+
+	<model> <!-- Gate 23-->
+		<path>Models/Airport/Jetway/jetway-737-ba.xml</path>
+		<offsets>
+			<x-m>-433.34</x-m>
+			<y-m>32.14</y-m>
+			<heading-deg>185.0 </heading-deg>
+		</offsets>
+	</model>
+	<model>
+		<path>Models/Airport/Jetway/jetway-737-ba.xml</path>
+		<offsets>
+			<x-m>-433.34</x-m>
+			<y-m>32.14</y-m>
+			<heading-deg>240.0 </heading-deg>
+		</offsets>
+	</model>
+	<model> <!-- Gate 24-->
+		<path>Models/Airport/Jetway/jetway-737-ba.xml</path>
+		<offsets>
+			<x-m>-430.35</x-m>
+			<y-m>77.35</y-m>
+			<heading-deg>180.0 </heading-deg>
+		</offsets>
+	</model>
+
+	
+</PropertyList>

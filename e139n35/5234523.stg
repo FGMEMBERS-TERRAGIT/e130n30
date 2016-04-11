@@ -1,0 +1,7 @@
+OBJECT_SHARED Models/Power/windturbine.xml 139.9757092 35.4720573 -0.02 0
+OBJECT_SHARED Models/Power/windturbine.xml 139.9917408 35.4574278 5.53 0
+OBJECT_SHARED Models/Communications/vordme_1.xml 139.903436 35.402364 -0.01 180
+OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac 139.7675698 35.3860575 -2.05 25.69
+OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac 139.7769578 35.406184 -3.66 267.07
+OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac 139.760276 35.388378 -1.85 349.68
+OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac 139.7695447 35.4085721 -3.5 144.03

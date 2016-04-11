@@ -1,0 +1,7 @@
+OBJECT_SHARED Models/Communications/vordme_1.xml 139.587522 35.255825 145.65 180
+OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac 139.7205807 35.3536935 -1.9 147.5
+OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac 139.7487403 35.3457042 -2.46 348.81
+OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac 139.741368 35.3480038 -2.11 124.93
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Safe-Water.ac 139.7135144 35.3294334 -2.3 202.86
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Safe-Water.ac 139.7322222 35.3076443 -2.53 135.6
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Safe-Water.ac 139.7472868 35.2903392 -2.62 78.24
