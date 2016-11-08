@@ -1,0 +1,4 @@
+OBJECT_SHARED Models/Airport/ndb.ac 130.39105 33.674883 0.61 180
+OBJECT_SHARED Models/Power/windturbine.xml 130.4155983 33.663761 -0.1 0
+OBJECT_SHARED Models/Communications/vordme_1.xml 130.389628 33.676208 0 180
+OBJECT_SHARED Models/Airport/marker.ac 130.39105 33.674883 0.61 180

@@ -1,0 +1,6 @@
+OBJECT_SHARED Models/Power/windturbine.xml 139.6522651 35.4674162 0.42 0
+OBJECT_SHARED Models/Power/windturbine.xml 139.7308485 35.4899784 2.57 0
+OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac 139.7178934 35.3804741 -1.27 324.95
+OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac 139.7295541 35.4016119 -1.53 136.18
+OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac 139.6971873 35.4387606 -0.28 286.47
+OBJECT_STATIC yokohama-landmark-tower.ac 139.631667 35.454722 11.8 36

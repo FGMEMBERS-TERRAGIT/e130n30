@@ -1,0 +1,4 @@
+OBJECT_SHARED Models/Airport/ils.xml 131.034642 33.854189 -0.15 189.87
+OBJECT_SHARED Models/Communications/vordme_1.xml 131.0294 33.856617 -0.04 180
+OBJECT_SHARED Models/Airport/localizer.xml 131.037772 33.832456 0 259.76
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Safe-Water.ac 131.2 33.8567 -6.51 9.63
