@@ -2,3 +2,4 @@ OBJECT_SHARED Models/Communications/vordme_1.xml 132.410508 34.359331 0.04 180
 OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac 132.295 34.2933 -0.01 335.51
 OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac 132.377 34.2683 -0.01 170.87
 OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac 132.45 34.2967 -0.06 21.68
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml 132.4627158 34.3404599 -2.4 0
