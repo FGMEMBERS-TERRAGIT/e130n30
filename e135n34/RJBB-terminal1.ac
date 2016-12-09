@@ -92,7 +92,11 @@ kids 0
 OBJECT poly
 name "big-glasswall"
 loc -0.0000061 37.4121437 83.6623383
+<<<<<<< HEAD
 texture "LKPR_NA_TERMINAL1.png"
+=======
+texture "RJBB-terminal1.png"
+>>>>>>> terrasync
 texrep 1 1
 numvert 48
 132.3784180 -10.0214157 -258.9608765
@@ -764,7 +768,11 @@ kids 0
 OBJECT poly
 name "edge-wall"
 loc -0.0000061 37.6620560 65.3846588
+<<<<<<< HEAD
 texture "LKPR_NA_TERMINAL1.png"
+=======
+texture "RJBB-terminal1.png"
+>>>>>>> terrasync
 texrep 1 1
 numvert 54
 823.2996216 -24.0370541 -112.5969009
@@ -1195,7 +1203,11 @@ kids 0
 OBJECT poly
 name "Eingang"
 loc -101.3251419 0.0000000 0.0000000
+<<<<<<< HEAD
 texture "eingang.png"
+=======
+texture "RJBB-terminal1_1.png"
+>>>>>>> terrasync
 texrep 1 1
 numvert 192
 3.2650051 4.3676839 -174.9102631
@@ -2331,7 +2343,11 @@ kids 0
 OBJECT poly
 name "front"
 loc 0.0000000 1.0000000 0.0000000
+<<<<<<< HEAD
 texture "rjbb-roof-tile.png"
+=======
+texture "RJBB-terminal1_2.png"
+>>>>>>> terrasync
 texrep 1 1
 numvert 48
 -95.4860077 25.9243202 -25.5069084
@@ -2811,7 +2827,11 @@ refs 4
 kids 0
 OBJECT poly
 name "parkhaus"
+<<<<<<< HEAD
 texture "roads-no-park.png"
+=======
+texture "RJBB-terminal1_3.png"
+>>>>>>> terrasync
 texrep 1 1
 numvert 140
 97.1805954 -5.1659060 -211.2011108
@@ -4315,7 +4335,11 @@ kids 0
 OBJECT poly
 name "roof"
 loc -0.0000061 37.6620560 90.1518402
+<<<<<<< HEAD
 texture "rjbb-roof-tile.png"
+=======
+texture "RJBB-terminal1_2.png"
+>>>>>>> terrasync
 texrep 1 1
 numvert 316
 137.2406006 -22.2622757 -87.5040588
@@ -5987,7 +6011,11 @@ kids 0
 OBJECT poly
 name "roof.edge"
 loc -0.0000061 37.6620560 90.1602783
+<<<<<<< HEAD
 texture "rjbb-roof-tile.png"
+=======
+texture "RJBB-terminal1_2.png"
+>>>>>>> terrasync
 texrep 1 1
 numvert 395
 137.2405548 -9.2301006 -267.2874451
@@ -8238,7 +8266,11 @@ kids 0
 OBJECT poly
 name "round-windows"
 loc 0.0000000 1.0000000 0.0000000
+<<<<<<< HEAD
 texture "LKPR_NA_TERMINAL1.png"
+=======
+texture "RJBB-terminal1.png"
+>>>>>>> terrasync
 texrep 1 1
 numvert 74
 274.4420471 3.1663852 -3.3105841
@@ -8806,7 +8838,11 @@ kids 0
 OBJECT poly
 name "sattelite-roofs.edge"
 loc -0.0000061 37.6620560 -100.8111420
+<<<<<<< HEAD
 texture "rjbb-roof-tile.png"
+=======
+texture "RJBB-terminal1_2.png"
+>>>>>>> terrasync
 texrep 1 1
 numvert 84
 823.9583130 -23.4558640 77.8749466
@@ -9164,7 +9200,11 @@ kids 0
 OBJECT poly
 name "street"
 loc 0.0000000 -0.0516677 -4.8925676
+<<<<<<< HEAD
 texture "roads-no-park.png"
+=======
+texture "RJBB-terminal1_3.png"
+>>>>>>> terrasync
 texrep 1 1
 numvert 40
 -135.0433044 12.0887232 -174.4497528

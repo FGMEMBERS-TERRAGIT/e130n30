@@ -1,2 +1,4 @@
 OBJECT_SHARED Models/Airport/ndb.ac 139.614653 35.199078 22.26 180
 OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac 139.6082334 35.2171101 -0.04 129.85
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml 139.6111277 35.1350791 -2.4 0
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml 139.6771178 35.1412671 13.11 0

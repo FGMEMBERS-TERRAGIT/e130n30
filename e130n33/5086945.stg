@@ -88,4 +88,6 @@ OBJECT_SHARED Models/Trees/beech33.xml 130.4488793 33.5991522 6.33 0
 OBJECT_SHARED Models/Trees/beech33.xml 130.4489385 33.5993333 5.7 0
 OBJECT_SHARED Models/Trees/beech33.xml 130.4490048 33.5995219 5.52 0
 OBJECT_SHARED Models/Trees/beech33.xml 130.4490615 33.5997028 5.29 0
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml 130.381917 33.6180816 -3.09 0
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml 130.386639 33.6199928 -3 0
 OBJECT_SHARED Models/Boundaries/stack_of_cones.ac 130.4482712 33.5986887 4.18 0
