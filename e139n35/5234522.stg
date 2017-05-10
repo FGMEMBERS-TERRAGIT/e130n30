@@ -4,3 +4,4 @@ OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac 139.7178934 35.3804741 -
 OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac 139.7295541 35.4016119 -1.53 136.18
 OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac 139.6971873 35.4387606 -0.28 286.47
 OBJECT_STATIC yokohama-landmark-tower.ac 139.631667 35.454722 11.8 36
+OBJECT_STATIC Cosmo_Wheel.xml 139.6367347 35.4553872 0.84 0
