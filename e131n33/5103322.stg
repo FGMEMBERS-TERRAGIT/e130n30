@@ -3,3 +3,14 @@ OBJECT_SHARED Models/Communications/vordme_1.xml 131.728756 33.489714 12.16 180
 OBJECT_SHARED Models/Communications/vordme_1.xml 131.738428 33.468806 1.62 180
 OBJECT_SHARED Models/Airport/localizer.xml 131.737264 33.495053 0.73 90.42
 OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac 131.66 33.4083 0 74.01
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/cube16x10.ac 131.73376 33.48009 6.28 180.001
+OBJECT_SHARED Models/lib/office32x25.ac 131.73417 33.48343 5.99 90
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml 131.73316 33.47936 5.90 270
+OBJECT_SHARED Models/Airport/GenericFuelStore1.ac 131.73425 33.48114 6.01 180.003
+OBJECT_SHARED Models/Airport/GenericFuelStore1.ac 131.73432 33.48132 6.67 180.003
+OBJECT_SHARED Models/Airport/GenericFuelStore1.ac 131.73442 33.48114 7.12 180.003
+OBJECT_SHARED Models/lib/office40x25.ac 131.73246 33.47487 6.67 0.00412
+# END dsf2stg
